@@ -14,3 +14,7 @@ this folder contains  all the 2d graphs created using matplotlib package
 <img width="389" height="389" alt="download" src="https://github.com/user-attachments/assets/16476482-9b60-4d17-b668-c94f574436e8" />
 
 <img width="417" height="389" alt="download" src="https://github.com/user-attachments/assets/cc528afb-be81-448f-af4b-5767916dee07" />
+<img width="547" height="413" alt="download" src="https://github.com/user-attachments/assets/e1da5f44-3aa0-40cc-8ee8-46535176ee0b" />
+
+
+
